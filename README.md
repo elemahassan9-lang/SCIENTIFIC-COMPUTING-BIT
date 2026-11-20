@@ -1,3 +1,3 @@
 # SCIENTIFIC-COMPUTING-BIT
-Elema Hassna
+Elema Hassan
 BSCCS252616290 
